@@ -1,1 +1,1 @@
-Load balancer | HAProxy
+# Load balancer | HAProxy
